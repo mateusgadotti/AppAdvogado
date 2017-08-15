@@ -1,4 +1,4 @@
-# AppAdvogado :squirrel:
+# AppAdvogado :cop:
 
 Crud:
 
